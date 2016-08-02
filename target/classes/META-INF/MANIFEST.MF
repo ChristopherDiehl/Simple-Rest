@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rest_demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Chris
+Implementation-Vendor-Id: com.shellcoders.rest
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/rest_demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
